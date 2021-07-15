@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 [![Email](https://img.shields.io/badge/Email-gray?style=for-the-badge&logo=google-chat)](mailto:vipul@hexoncode.com)
 [![Facebook](https://img.shields.io/badge/Website-skyblue?style=for-the-badge&logo=google-chrome)][website]
 <br />
-[website]: https://www.vipuljha.com
+
 [twitter]: https://twitter.com/harsh_it
 [instagram]: https://instagram.com/_h_a_r_s_h_i_t_20_
 [linkedin]: https://linkedin.com/in/harshit-agrawal-7362941b1/
